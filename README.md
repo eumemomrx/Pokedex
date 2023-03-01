@@ -1,6 +1,6 @@
 # Pokédex
 
-![preview](./.github/pokedexpreview.png)
+![preview](./.github/pokedexpreviewpng.png)
 
 Projeto construído com auxilio de videos no Youtube.
 
