@@ -4,6 +4,7 @@
 
 Projeto construído com auxilio de videos no Youtube.
 
+[Clique aqui para acessar](https://eumemomrx.github.io/Pokedex/)
 
 ## Tecnologias utilizadas
 - JavaScript
